@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.header .title {
+    font-size: 32rpx;
+    line-height: 80rpx;
+    color: #666;
+}
+
+.header .more {
+    border: 1rpx solid #333;
+    border-radius: 24rpx;
+    font-size: 26rpx;
+    padding: 10rpx 20rpx;
+}
+
+.topbody {
+    display: flex;
+    justify-content: space-between;
+}

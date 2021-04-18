@@ -1,0 +1,5 @@
+<template name="myTmp">
+  <view>
+    <view class="title">摸板内容{{id}}:{{data}}</view>
+  </view>
+</template>

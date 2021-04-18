@@ -1,0 +1,13 @@
+<import src="/template/mytemplate/mytemplate.wxml" />
+
+<view>
+     <view >测试模板</view>
+     <template is="myTmp" data="{{...msg}}"/>
+
+
+     <view>
+         测试用户唯一标识
+     </view>
+       <button bindtap="handleGetOpenId">click</button>
+</view>
+  

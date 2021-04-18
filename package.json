@@ -1,0 +1,23 @@
+{
+  "name": "cloud_music",
+  "version": "1.0.0",
+  "description": "swiper 有一个默认高度 150rpx ## scroll-view     enable-flex=\"true\"      scroll-x=\"true\"     横向排列时纵向高度注意     bindrefresherrefresh = \"\" 下拉刷新事件 先设置   refresher-enabled     bindscrolltolower 下拉触底回调 ## 阿里 iconfont ## 单行、多行文字超出范围显示 ... ```css /*单行*/ selector {     display: block;     white-space: nowrap;     overflow: hidden;     text-overflow: ellipsis; }",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leochenup/wxprogram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leochenup/wxprogram/issues"
+  },
+  "homepage": "https://github.com/leochenup/wxprogram#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "pubsub-js": "^1.9.3"
+  }
+}
